@@ -1,0 +1,105 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "vulnerabilityAssessments_Default_storageContainerPath_1": {
+            "value": null
+        },
+        "vulnerabilityAssessments_Default_storageContainerPath_2": {
+            "value": null
+        },
+        "servers_sqlsever123_name": {
+            "value": null
+        },
+        "servers_failoversrvr_name": {
+            "value": null
+        },
+        "servers_sqlserverrep_name": {
+            "value": null
+        },
+        "sshPublicKeys_ssh_key_name": {
+            "value": null
+        },
+        "loadBalancers_publiclb_name": {
+            "value": null
+        },
+        "loadBalancers_internallb_name": {
+            "value": null
+        },
+        "publicIPAddresses_pbipfe_name": {
+            "value": null
+        },
+        "availabilitySets_availset1_name": {
+            "value": null
+        },
+        "availabilitySets_availset2_name": {
+            "value": null
+        },
+        "virtualMachines_VM1_Ubuntu_name": {
+            "value": null
+        },
+        "virtualMachines_VM2_Ubuntu_name": {
+            "value": null
+        },
+        "virtualMachines_VM1_Windows_name": {
+            "value": null
+        },
+        "virtualMachines_VM2_Windows_name": {
+            "value": null
+        },
+        "sshPublicKeys_VM2_Ubuntu_key3_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1_ubuntu785_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2_ubuntu228_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2_ubuntu489_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM2_Ubuntu_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1_windows603_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2_windows725_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM1_Windows_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM2_Windows_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM1_Ubuntu_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2_Ubuntu_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM1_Windows_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2Ubuntunsg467_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2Ubuntunsg667_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2_Windows_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM2Windowsnsg868_name": {
+            "value": null
+        },
+        "virtualNetworks_3_tier_Environment_vnet_name": {
+            "value": null
+        }
+    }
+}
